@@ -53,3 +53,6 @@ Want to collaborate or chat about all things tech? Drop me a message! Let’s bu
 [![](https://visitcount.itsvg.in/api?id=5gears0chill&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<a href="https://app.daily.dev/muaazjoosuf"><img src="https://api.daily.dev/devcards/v2/2HUq1cv7wEDVqbgc605mA.png?r=wyt&type=default" width="356" alt="Mu'aaz Joosuf's Dev Card"/></a>
